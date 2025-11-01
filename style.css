@@ -1,0 +1,34 @@
+#num1{
+    background-color: grey;
+    height: 500px;
+    width: 200px;
+    border-radius: 75px;
+}
+#num2{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 75px;
+    /* margin-top: 35px; */
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+#num3{
+    height: 150px;
+    width: 150px;
+    background-color:yellow;
+    border-radius: 75px;
+    margin: auto;
+}
+#num4{
+    height: 150px;
+    width: 150px;
+    background-color:green;
+    border-radius: 75px;
+margin-top: 15px;
+margin-right: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+}
